@@ -1,0 +1,2 @@
+
+1. Boost asio => to install run command   sudo apt-get install libboost-all-dev (for linux)
